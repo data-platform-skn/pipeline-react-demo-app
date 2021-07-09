@@ -1,1 +1,5 @@
 node_modules/*
+clover.xml
+coverage*
+lcov*/*
+lcov.info
